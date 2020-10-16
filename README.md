@@ -1,4 +1,4 @@
-Sasincoin integration/staging tree
+Sasincoin (c) 2020
 ================================
 
 ![Alt text](/share/pixmaps/bitcoincoin256.png?raw=true)
