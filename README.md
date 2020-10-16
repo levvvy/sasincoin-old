@@ -6,20 +6,20 @@ Sasincoin integration/staging tree
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Sasincoin Developers
 
-What is Sasincoin?
+Co to jest Sasincoin?
 ----------------
 
-Sasincoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+Sasincoin to lite wersja Bitcoina wykorzystująca scrypt jako algorytm proof-of-work.
+  - 1-minutowe cele blokowe
+  - dotacja zmniejsza się o połowę w blokach 10000 tys.
+  - łącznie ~ 70 milionów monet
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+Inne
+  - 7 monet na blok
+  - 2016 bloków, aby zmienić poziom trudności
 
-For more information, as well as an immediately useable, binary version of
-the Sasincoin client sofware, see http://www.sasincoin.org.
+Aby uzyskać więcej informacji, a także natychmiast użyć binarnej wersji programu
+oprogramowanie klienta Sasincoin, patrz https://github.com/levvvy/sasincoin
 
 License
 -------
