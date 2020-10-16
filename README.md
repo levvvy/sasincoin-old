@@ -1,7 +1,7 @@
 Sasincoin integration/staging tree
 ================================
 
-http://www.sasincoin.org
+![Alt text](/share/pixmaps/bitcoincoin256.png?raw=true "Title")
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Sasincoin Developers
