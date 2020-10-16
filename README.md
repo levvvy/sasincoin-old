@@ -4,9 +4,7 @@ Sasincoin (c) 2020
 ![Alt text](/share/pixmaps/bitcoincoin256.png?raw=true)
 
 Copyright (c) 2009-2014 Bitcoin Developers
-
 Copyright (c) 2011-2014 Litecoin Developers
-
 Copyright (c) 2020 Sasincoincoin Developers
 
 ## Przy próbie uruchomienia programu dla windows, antywirusy powinny zgłaszać zagrożenie, jest to nic innego jak bitcoin-miner, czyli dokładnie program, który chemy otworzyć
