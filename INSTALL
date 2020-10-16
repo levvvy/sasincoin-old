@@ -1,0 +1,9 @@
+Building Sasincoin
+
+See doc/readme-qt.rst for instructions on building Sasincoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sasincoin.
+
+See doc/build-*.txt for instructions on building sasincoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sasincoin.

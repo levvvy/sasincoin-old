@@ -1,0 +1,34 @@
+src/*.exe
+src/sasincoin
+src/sasincoind
+src/test_sasincoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.sasincoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+sasincoin-qt
+Sasincoin-Qt.app
+
+# Unit-tests
+Makefile.test
+sasincoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
