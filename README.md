@@ -4,7 +4,8 @@ Sasincoin integration/staging tree
 ![Alt text](/share/pixmaps/bitcoincoin256.png?raw=true "Title")
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Sasincoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2020 Sasincoincoin Developers
 
 ## Przy próbie uruchomienia programu dla windows, antywirusy powinny zgłaszać zagrożenie, jest to nic innego jak bitcoin-miner, czyli dokładnie program, który chemy otworzyć
 https://www.virustotal.com/gui/file/23db0a504b7c4fc2dcda371c63ba1d5790f5da8558e6c61b73817c5f00882bef/detection
