@@ -9,8 +9,8 @@ Copyright (c) 2020 Sasincoincoin Developers
 
 ---
 
-Tag na wykopie - https://www.wykop.pl/tag/sasincoin/  
-Block Explorer - http://pretendenci.pl:3001/
+**Tag na wykopie** - https://www.wykop.pl/tag/sasincoin/  
+**Block Explorer** - http://pretendenci.pl:3001/
 
 ---
 
