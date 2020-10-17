@@ -1,7 +1,9 @@
 Sasincoin (c) 2020
 ================================
-![ ] (share/pixmaps/bitcoincoin256.png?raw=true" width=100%") 
-
+<p align="center">
+  <img src="share/pixmaps/bitcoincoin256.png?raw=true" width="500" title="hover text">
+</p>
+  
 Copyright (c) 2009-2014 Bitcoin Developers  
 Copyright (c) 2011-2014 Litecoin Developers  
 Copyright (c) 2020 Sasincoincoin Developers 
