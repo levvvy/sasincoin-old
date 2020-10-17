@@ -7,10 +7,10 @@ Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers  
 Copyright (c) 2020 Sasincoincoin Developers 
 
-
+---
 Tag na wykopie - https://www.wykop.pl/tag/sasincoin/  
 Block Explorer - http://pretendenci.pl:3001/
-
+---
 
 # :warning: Przy próbie uruchomienia programu dla windows, antywirusy, przeglądarka oraz windows defender powinny zgłaszać zagrożenie :warning:   
 Jest to nic innego jak bitcoin-miner, czyli program, który chemy otworzyć, nie stanowi on zagrożenia.  
