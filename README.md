@@ -31,7 +31,7 @@ Co to jest Sasincoin?
 
 Sasincoin to lite wersja Bitcoina wykorzystująca scrypt jako algorytm proof-of-work.
   - 1-minutowe cele blokowe
-  - dotacja zmniejsza się o połowę w blokach 1000 tys.
+  - Nagroda za kopanie zmniejsza się o połowę co 1000 bloków
   - łącznie ~ 70 milionów monet
 
 Inne
