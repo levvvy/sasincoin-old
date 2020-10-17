@@ -10,7 +10,7 @@ Copyright (c) 2020 Sasincoincoin Developers
 ---
 
 ### :mag: **Block Explorer** - http://18.197.190.51:3001/ :mag_right:
-**Tag na wykopie** - https://www.wykop.pl/tag/sasincoin/  
+![wykop](https://www.wykop.pl/cdn/c3201142/comment_R1x9oiehIKf69fMicte6mGoYXVphyIbF.gif) **Tag na wykopie** - https://www.wykop.pl/tag/sasincoin/  
 
 ---
 
