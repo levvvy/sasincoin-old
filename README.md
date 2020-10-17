@@ -24,7 +24,18 @@ https://www.virustotal.com/gui/file/23db0a504b7c4fc2dcda371c63ba1d5790f5da8558e6
 ----------------
 
 
+**Aby kopać walutę**
 
+Po odpaleniu programu, przechodzimy do
+`Pomoc -> Okno Debugowania -> Konsola`
+
+i wpisujemy komendę:
+
+`setgenerate true`
+lub
+`setgenerate true 1`
+`setgenerate true 4`
+itd
 
 
 Co to jest Sasincoin?
