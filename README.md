@@ -14,7 +14,7 @@ Copyright (c) 2020 Sasincoincoin Developers
 
 ---
 
-# :warning: Przy próbie uruchomienia programu dla windows, antywirusy, przeglądarka oraz windows defender powinny zgłaszać zagrożenie :warning:   
+# :warning: Przy próbie uruchomienia programu dla windows, antywirusy, przeglądarka oraz windows defender powinny zgłaszać zagrożenie   
 Jest to nic innego jak bitcoin-miner, czyli program, który chemy otworzyć, nie stanowi on zagrożenia.  
 https://www.virustotal.com/gui/file/23db0a504b7c4fc2dcda371c63ba1d5790f5da8558e6c61b73817c5f00882bef/detection  
 ### Jeśli masz dalsze wątpliwości, samodzielnie skompiluj portfel na windows lub linux!  
