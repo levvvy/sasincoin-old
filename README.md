@@ -37,6 +37,8 @@ lub
 `setgenerate true 4`
 itd
 
+----------------
+
 
 Co to jest Sasincoin?
 ----------------
